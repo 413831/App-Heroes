@@ -3,6 +3,7 @@ body{
   padding-bottom: 50px;
 }
 
+
 .animated {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
@@ -34,3 +35,44 @@ body{
   .img-logo{
     width: 120px;
   }
+
+  ::-webkit-scrollbar:window-inactive {
+    overflow: hidden;
+    opacity: 0;
+ }
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+    overflow: auto;
+    overflow-y : auto;
+}
+
+
+/* Scrollbar */
+::-webkit-scrollbar-track {
+    opacity: 0;
+}
+
+::-webkit-scrollbar-track:hover {
+    box-shadow: inset 0 0 5px transparent; 
+    opacity: 0.5;
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-track-piece {
+    opacity: 0.5;
+    background-color: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background-color: #b7c9ff;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #6f93ff;   
+    overflow: auto;
+    padding-right: 1px; ;
+}
