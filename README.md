@@ -24,4 +24,4 @@ Para poder usar la aplicación de prueba puede acceder al siguiente link.
 
 ## https://app-heroes-spa.herokuapp.com/
 
-:)
+:) :shipit:
