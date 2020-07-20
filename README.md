@@ -22,6 +22,5 @@ Página de heroes organizada en tarjetas con vista previa de la información de 
 
 Para poder usar la aplicación de prueba puede acceder al siguiente link.
 
-## https://app-heroes-spa.herokuapp.com/
+## https://app-heroes-spa.herokuapp.com/ :) :shipit:
 
-:) :shipit:
