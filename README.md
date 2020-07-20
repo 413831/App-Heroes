@@ -1,4 +1,4 @@
-# Heroes app
+# :octocat: Heroes app :space_invader:
 
 Simple page application utilizando Angular 9 + Bootstrap. Creada con fines educativos.
 
